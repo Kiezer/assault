@@ -17,7 +17,7 @@ DESCRIPTION = 'My short description for my project.'
 URL = 'https://github.com/Kiezer/assault'
 EMAIL = 'menasigi.deep@gmail.com'
 AUTHOR = 'Deep Menasigi'
-REQUIRES_PYTHON = '>=3.6.0'
+REQUIRES_PYTHON = '>=3.7.0'
 VERSION = '0.1.0'
 
 # What packages are required for this module to be executed?
