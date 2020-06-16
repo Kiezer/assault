@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/Users/deepmenasigi/.local/share/virtualenvs/assault-InLodnXR/bin/python",
+    "python.linting.enabled": true,
+    "editor.formatOnSave": true,
+    "python.formatting.provider": "black"
+}
